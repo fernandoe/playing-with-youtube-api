@@ -1,0 +1,37 @@
+{
+ "kind": "youtube#subscriptionListResponse",
+ "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/BCgNieFP9SZE5qSJLjfdu0cgkQw\"",
+ "nextPageToken": "CAEQAA",
+ "pageInfo": {
+  "totalResults": 242,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#subscription",
+   "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/atkyUaFhVYaoyjdShUUKEkNLVEo\"",
+   "id": "9Gl-Ay-50haezC5ow0ls1rKZiUb1FfAahSHawcxITpM",
+   "snippet": {
+    "publishedAt": "2017-11-23T14:28:54.000Z",
+    "title": "Frog Leap Studios",
+    "description": "Leo Moracchioli runs a studio in Norway called Frog Leap Studios. This channel contains music covers, gear review, studio updates and other shenanigans.\n\nwww.frogleapstudios.com",
+    "resourceId": {
+     "kind": "youtube#channel",
+     "channelId": "UC98tcedR6gULv8_b70WJKyw"
+    },
+    "channelId": "UCDNGiCFEPqxWIcGl68fHydw",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/-OxsJ7lm9N-Y/AAAAAAAAAAI/AAAAAAAAAAA/Sr398-yho-U/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/-OxsJ7lm9N-Y/AAAAAAAAAAI/AAAAAAAAAAA/Sr398-yho-U/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/-OxsJ7lm9N-Y/AAAAAAAAAAI/AAAAAAAAAAA/Sr398-yho-U/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     }
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+  "publishedAt": "2017-11-16T13:27:09.000Z",
+  "title": "thenewboston",
+  "description": "Tons of sweet computer related tutorials and some other awesome videos too!",
+  "resourceId": {
+    "kind": "youtube#channel",
+    "channelId": "UCJbPGzawDH1njbqV-D5HqKw"
+  },
+  "channelId": "UCDNGiCFEPqxWIcGl68fHydw",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/--n5ELY2uT-U/AAAAAAAAAAI/AAAAAAAAAAA/d9JvaIEpstw/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/--n5ELY2uT-U/AAAAAAAAAAI/AAAAAAAAAAA/d9JvaIEpstw/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/--n5ELY2uT-U/AAAAAAAAAAI/AAAAAAAAAAA/d9JvaIEpstw/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+    }
+  }
+}
